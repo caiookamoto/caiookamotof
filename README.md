@@ -1,4 +1,4 @@
-Formado em Administração, entrando no mundo da programação e tecnologia!!!
+## OLÁ, sou Caio Okamoto. Formado em Administração, entrando no mundo da programação e tecnologia!!!
 
 🎌 Nascido no Japão.
 
